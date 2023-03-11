@@ -1,0 +1,22 @@
+{
+  "name": "javascript_asincronismo",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephadolfomb/javascript_asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Joseph Morán",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josephadolfomb/javascript_asincronismo/issues"
+  },
+  "homepage": "https://github.com/josephadolfomb/javascript_asincronismo#readme"
+}
