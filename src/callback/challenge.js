@@ -30,3 +30,4 @@ fetchData(`${API}/products`, function(error1, data1) {
         });
     });
 });
+
